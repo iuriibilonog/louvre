@@ -1,5 +1,4 @@
 import s from './WelcomeScreen.module.css';
-import welcomeBgMob from './../../images/welcomeBgMob.png';
 import burger from './../../images/burger.png';
 import logo from './../../images/logo.png';
 import bigLogoDesc from './../../images/bigLogoDesc.png';
